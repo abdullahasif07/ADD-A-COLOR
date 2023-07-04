@@ -1,0 +1,26 @@
+.inner {
+    background-color: blue;
+    padding: auto;
+    background-color: black;
+    border: 4px solid blue;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url('../images/cloudy.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: black;
+    color: white;
+    border: 4px solid blue ;
+
+}
+
+.btn-bg {
+    background-color: blue;
+    color: white;
+}
